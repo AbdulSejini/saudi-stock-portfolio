@@ -1,6 +1,6 @@
-flask==3.0.0
-yfinance==0.2.36
-pandas==2.1.4
-requests==2.31.0
-apscheduler==3.10.4
-gunicorn==21.2.0
+flask>=3.0.0
+yfinance>=0.2.36
+pandas>=2.2.0
+requests>=2.31.0
+apscheduler>=3.10.4
+gunicorn>=21.2.0
