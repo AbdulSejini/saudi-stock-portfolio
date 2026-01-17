@@ -1,0 +1,71 @@
+{
+  "wallets": {
+    "56fbac72": {
+      "wallet_id": "56fbac72",
+      "name": "الراجحي استثمارية",
+      "broker": "الراجحي",
+      "buying_power": 3240265.4899999998,
+      "description": "",
+      "strategy": "long_term",
+      "strategy_display": "استثمارية بعيدة المدى",
+      "account_number": "",
+      "created_at": "2026-01-17T21:59:12.217806"
+    },
+    "386c431c": {
+      "wallet_id": "386c431c",
+      "name": "دراية مضاربي",
+      "broker": "دراية",
+      "buying_power": 951513.73,
+      "description": "",
+      "strategy": "speculative",
+      "strategy_display": "مضاربية",
+      "account_number": "",
+      "created_at": "2026-01-17T21:59:48.863532"
+    },
+    "a2f844c0": {
+      "wallet_id": "a2f844c0",
+      "name": "محفظة المضاربة السريعة",
+      "broker": "الأهلي المالية",
+      "buying_power": 41635.119999999995,
+      "description": "محفظة للمضاربة اليومية والأسبوعية",
+      "strategy": "speculative",
+      "strategy_display": "مضاربية",
+      "account_number": "SP-2026-001",
+      "created_at": "2026-01-17T22:22:51.587030"
+    },
+    "26b04ac8": {
+      "wallet_id": "26b04ac8",
+      "name": "محفظة النمو المتوازن",
+      "broker": "الراجحي المالية",
+      "buying_power": 73542.92,
+      "description": "محفظة متوازنة بين النمو والعوائد",
+      "strategy": "balanced",
+      "strategy_display": "متوازنة",
+      "account_number": "BL-2026-002",
+      "created_at": "2026-01-17T22:22:51.591374"
+    },
+    "6d8a5a89": {
+      "wallet_id": "6d8a5a89",
+      "name": "محفظة الاستثمار طويل المدى",
+      "broker": "السعودي الفرنسي كابيتال",
+      "buying_power": 132880.57,
+      "description": "محفظة للاستثمار طويل المدى والتوزيعات",
+      "strategy": "long_term",
+      "strategy_display": "استثمارية بعيدة المدى",
+      "account_number": "LT-2026-003",
+      "created_at": "2026-01-17T22:22:51.594008"
+    },
+    "bdbc48ad": {
+      "wallet_id": "bdbc48ad",
+      "name": "محفظة الادخار المتوازنة",
+      "broker": "البلاد المالية",
+      "buying_power": 75000.0,
+      "description": "محفظة للادخار والنمو المتوازن",
+      "strategy": "balanced",
+      "strategy_display": "متوازنة",
+      "account_number": "BL-2026-003",
+      "created_at": "2026-01-17T22:31:59.176127"
+    }
+  },
+  "last_saved": "2026-01-17T22:31:59.176189"
+}

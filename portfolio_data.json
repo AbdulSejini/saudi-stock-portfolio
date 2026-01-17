@@ -1,0 +1,247 @@
+{
+  "stocks": {
+    "7010": {
+      "symbol": "7010",
+      "name": "اس تي سي",
+      "orders": [
+        {
+          "order_id": "20260117220141349641",
+          "order_type": "buy",
+          "shares": 100000.0,
+          "price": 33.0,
+          "date": "2020-01-01",
+          "wallet_id": "56fbac72",
+          "commission": 5115.0,
+          "tax": 767.25
+        },
+        {
+          "order_id": "20260117222523836407",
+          "order_type": "buy",
+          "shares": 80.0,
+          "price": 42.0,
+          "date": "2025-12-18",
+          "wallet_id": "26b04ac8",
+          "commission": 5.21,
+          "tax": 0.78
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 44.3,
+      "last_updated": "2026-01-17T22:51:53.136768"
+    },
+    "2082": {
+      "symbol": "2082",
+      "name": "أكوا باور",
+      "orders": [
+        {
+          "order_id": "20260117222521582264",
+          "order_type": "buy",
+          "shares": 100.0,
+          "price": 380.0,
+          "date": "2026-01-10",
+          "wallet_id": "386c431c",
+          "commission": 58.9,
+          "tax": 8.83
+        },
+        {
+          "order_id": "20260117222636808825",
+          "order_type": "buy",
+          "shares": 50.0,
+          "price": 370.0,
+          "date": "2026-01-17",
+          "wallet_id": null,
+          "commission": 28.68,
+          "tax": 4.3
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 176.8,
+      "last_updated": "2026-01-17T22:51:54.054605"
+    },
+    "2222": {
+      "symbol": "2222",
+      "name": "أرامكو السعودية",
+      "orders": [
+        {
+          "order_id": "20260117222522083410",
+          "order_type": "buy",
+          "shares": 500.0,
+          "price": 28.5,
+          "date": "2026-01-10",
+          "wallet_id": "a2f844c0",
+          "commission": 22.09,
+          "tax": 3.31
+        },
+        {
+          "order_id": "20260117222524976946",
+          "order_type": "buy",
+          "shares": 2000.0,
+          "price": 27.5,
+          "date": "2025-01-17",
+          "wallet_id": "56fbac72",
+          "commission": 85.25,
+          "tax": 12.79
+        },
+        {
+          "order_id": "20260117222730954177",
+          "order_type": "buy",
+          "shares": -200.0,
+          "price": 29.5,
+          "date": "2026-01-17",
+          "wallet_id": "a2f844c0",
+          "commission": -9.14,
+          "tax": -1.37
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 24.8,
+      "last_updated": "2026-01-17T22:51:55.194933"
+    },
+    "1211": {
+      "symbol": "1211",
+      "name": "معادن",
+      "orders": [
+        {
+          "order_id": "20260117222522525468",
+          "order_type": "buy",
+          "shares": 200.0,
+          "price": 52.0,
+          "date": "2026-01-17",
+          "wallet_id": "386c431c",
+          "commission": 16.12,
+          "tax": 2.42
+        },
+        {
+          "order_id": "20260117222637275000",
+          "order_type": "sell",
+          "shares": 100.0,
+          "price": 58.0,
+          "date": "2026-01-17",
+          "wallet_id": null,
+          "commission": 8.99,
+          "tax": 1.35
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 71.3,
+      "last_updated": "2026-01-17T22:51:56.123199"
+    },
+    "1120": {
+      "symbol": "1120",
+      "name": "مصرف الراجحي",
+      "orders": [
+        {
+          "order_id": "20260117222522935254",
+          "order_type": "buy",
+          "shares": 150.0,
+          "price": 95.0,
+          "date": "2025-12-18",
+          "wallet_id": "26b04ac8",
+          "commission": 22.09,
+          "tax": 3.31
+        },
+        {
+          "order_id": "20260117222526239484",
+          "order_type": "buy",
+          "shares": 500.0,
+          "price": 90.0,
+          "date": "2025-01-17",
+          "wallet_id": "6d8a5a89",
+          "commission": 69.75,
+          "tax": 10.46
+        },
+        {
+          "order_id": "20260117222732112170",
+          "order_type": "sell",
+          "shares": 50.0,
+          "price": 98.0,
+          "date": "2026-01-16",
+          "wallet_id": null,
+          "commission": 7.59,
+          "tax": 1.14
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 101.9,
+      "last_updated": "2026-01-17T22:51:57.266526"
+    },
+    "2010": {
+      "symbol": "2010",
+      "name": "سابك",
+      "orders": [
+        {
+          "order_id": "20260117222523378648",
+          "order_type": "buy",
+          "shares": 100.0,
+          "price": 88.0,
+          "date": "2025-12-18",
+          "wallet_id": "26b04ac8",
+          "commission": 13.64,
+          "tax": 2.05
+        },
+        {
+          "order_id": "20260117222638424829",
+          "order_type": "buy",
+          "shares": 50.0,
+          "price": 85.0,
+          "date": "2026-01-17",
+          "wallet_id": null,
+          "commission": 6.59,
+          "tax": 0.99
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 55.35,
+      "last_updated": "2026-01-17T22:51:59.093398"
+    },
+    "1180": {
+      "symbol": "1180",
+      "name": "البنك الأهلي",
+      "orders": [
+        {
+          "order_id": "20260117222526696126",
+          "order_type": "buy",
+          "shares": 300.0,
+          "price": 35.0,
+          "date": "2025-01-17",
+          "wallet_id": "56fbac72",
+          "commission": 16.27,
+          "tax": 2.44
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 42.04,
+      "last_updated": "2026-01-17T22:52:00.031668"
+    },
+    "7020": {
+      "symbol": "7020",
+      "name": "اتحاد اتصالات",
+      "orders": [
+        {
+          "order_id": "20260117222527867350",
+          "order_type": "buy",
+          "shares": 400.0,
+          "price": 55.0,
+          "date": "2025-01-17",
+          "wallet_id": "6d8a5a89",
+          "commission": 34.1,
+          "tax": 5.12
+        },
+        {
+          "order_id": "20260117222638864040",
+          "order_type": "sell",
+          "shares": 100.0,
+          "price": 60.0,
+          "date": "2026-01-17",
+          "wallet_id": null,
+          "commission": 9.3,
+          "tax": 1.39
+        }
+      ],
+      "corporate_actions": [],
+      "current_price": 67.1,
+      "last_updated": "2026-01-17T22:52:00.988130"
+    }
+  },
+  "last_saved": "2026-01-17T22:52:01.494756"
+}
